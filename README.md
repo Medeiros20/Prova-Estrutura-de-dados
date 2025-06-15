@@ -2,6 +2,16 @@
 
 Este repositório reúne a resolução da prova pratica de estrutura de dados desenvolvida com a linguagem Python. O objetivo é consolidar conhecimentos de fila e lista, por meio de desafios e problemas práticos.
 
+## Questão
+
+Crie um programa que peça ao usuário para digitar nomes e faça um lista com eles em formato de fila, se o usuário remover um nome ele irá pra uma lista de atendidos 
+Opções:
+Adicionar nome
+Remover nome
+Exibir lista
+Exibir lista de atendidos
+Sair
+
 ## 🛠️ Como Usar
 
 1. Clone este repositório:
